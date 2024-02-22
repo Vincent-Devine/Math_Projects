@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7c06c8763c47aaf48a790b4b73488951
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mass: {instanceID: 0}
+  - posX: {instanceID: 0}
+  - posY: {instanceID: 0}
+  - posZ: {instanceID: 0}
+  - speedX: {instanceID: 0}
+  - speedY: {instanceID: 0}
+  - speedZ: {instanceID: 0}
+  - size: {instanceID: 0}
+  - planetPrefab: {fileID: 4059227957524138922, guid: 9cb409cbb32c3da4b9a3ed35e7598018, type: 3}
+  - common: {fileID: 11400000, guid: 97a6ea8e7647d924689f00a8d4081c35, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
